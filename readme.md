@@ -10,11 +10,12 @@ pip install project-phoenix
 
 ## Usage
 
-| Command          | Description
-|------------------|--------------------|
-| `git-config`     |
-| `git-pull`       |
-| `git-update-all` |
+| `poetry run <prgm>` | Description
+|---------------------|--------------------|
+| `git-config`        | Sets up a default global configuration
+| `git-pull`          | Pulls the latest changes from the git repo
+| `git-update`        | Updates all old
+| `pip-update`        |
 
 # MIT License
 

@@ -1,0 +1,6 @@
+old
+archive
+*.pyc
+.DS_Store
+._*
+poetry.lock

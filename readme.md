@@ -1,6 +1,24 @@
-MIT License
+![](teddy.webp)
 
-Copyright (c) 2023 Kevin Walchko
+# project_phoenix
+
+## Install
+
+```
+pip install project-phoenix
+```
+
+## Usage
+
+| Command          | Description
+|------------------|--------------------|
+| `git-config`     |
+| `git-pull`       |
+| `git-update-all` |
+
+# MIT License
+
+**Copyright (c) 2023 Kevin Walchko**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

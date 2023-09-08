@@ -14,8 +14,8 @@ pip install project-phoenix
 |---------------------|--------------------|
 | `git-config`        | Sets up a default global configuration
 | `git-pull`          | Pulls the latest changes from the git repo
-| `git-update`        | Updates all old
-| `pip-update`        |
+| `git-update`        | Updates git repos
+| `pip-update`        | Updates python modules
 
 # MIT License
 

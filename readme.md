@@ -1,4 +1,4 @@
-![](https://github.com/walchko/project-phoenix/blob/main/teddy.png)
+![](https://raw.githubusercontent.com/walchko/project-phoenix/main/teddy.png)
 
 # project_phoenix
 

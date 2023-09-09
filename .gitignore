@@ -4,3 +4,6 @@ archive
 .DS_Store
 ._*
 poetry.lock
+__pycache__
+dist
+build

@@ -1,4 +1,4 @@
-![](teddy.webp)
+![](https://github.com/walchko/project-phoenix/blob/main/teddy.png)
 
 # project_phoenix
 
